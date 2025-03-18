@@ -1,4 +1,5 @@
 import Home from './pages/Home'
+import MovieCard from './components/MovieCard'
 import './CSS/App.css'
 import {Routes, Route} from 'react-router-dom'
 import Favorites from './pages/Favorites'
